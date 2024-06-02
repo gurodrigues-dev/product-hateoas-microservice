@@ -1,3 +1,9 @@
+## 🚀 Projeto Educacional EE Francisco Voccio
+
+Um professor de informática me informou que estava dando aulas de programação para alguns de seus alunos em Java. Portanto me convidou a lessionar uma aula referente a API's e ambientes Web. De cara, aceitei este será o conteúdo principal da nossa aula. Backend.
+
+> Portanto, deixarei este repositório público para que os mesmos consultem.
+
 ## ⚙️ API Endpoints
 
 Todas as rotas possuem `api/v1`. Antecendo, como prefixo da rota.
